@@ -2,6 +2,6 @@
 
 int main()
 {
-    printprintf("Hello Jenkins Webhook!\n");
+    printf("Hello Jenkins Webhook Test 2!\n");
     return 0;
 }
