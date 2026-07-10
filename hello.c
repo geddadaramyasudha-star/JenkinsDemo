@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello Poll SCM!\n");
+    printprintf("Hello Jenkins Webhook!\n");
     return 0;
 }
